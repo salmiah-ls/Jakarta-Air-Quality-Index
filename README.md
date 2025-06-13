@@ -11,3 +11,7 @@ Kaggle: <a href="https://www.kaggle.com/datasets/senadu34/air-quality-index-in-j
 - Line Graph<br />
   <img src="https://github.com/salmiah-ls/Jakarta-Air-Quality-Index/blob/main/images/pm25_line_graph_2.png" width="886"></img>
   <br /><br />
+- Map <br />
+  <img src="https://github.com/salmiah-ls/Jakarta-Air-Quality-Index/blob/main/images/pm25_map.png" width="800"></img>
+  <br />
+  <a href="https://sites.google.com/view/salmiah-ls/previous-projects/jakarta-air-quality-index">HTML map</a>
