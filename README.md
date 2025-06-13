@@ -7,3 +7,7 @@ Kaggle: <a href="https://www.kaggle.com/datasets/senadu34/air-quality-index-in-j
 ## Visualization of PM25 Level at 5 stations in Jakarta in early 2025
 - Scatter Plot<br />
   <img src="https://github.com/salmiah-ls/Jakarta-Air-Quality-Index/blob/main/images/pm25_scatter_plot_2.png" width="893"></img>
+  <br /><br />
+- Line Graph<br />
+  <img src="https://github.com/salmiah-ls/Jakarta-Air-Quality-Index/blob/main/images/pm25_line_graph_2.png" width="886"></img>
+  <br /><br />
